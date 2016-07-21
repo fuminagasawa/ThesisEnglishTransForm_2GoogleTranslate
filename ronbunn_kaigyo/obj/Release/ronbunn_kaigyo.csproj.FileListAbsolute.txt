@@ -1,0 +1,8 @@
+C:\Users\nagasawa\Documents\pepper\python\ronbunn_kaigyo\ronbunn_kaigyo\bin\Release\ronbunn_kaigyo.exe.config
+C:\Users\nagasawa\Documents\pepper\python\ronbunn_kaigyo\ronbunn_kaigyo\bin\Release\ronbunn_kaigyo.exe
+C:\Users\nagasawa\Documents\pepper\python\ronbunn_kaigyo\ronbunn_kaigyo\bin\Release\ronbunn_kaigyo.pdb
+C:\Users\nagasawa\Documents\pepper\python\ronbunn_kaigyo\ronbunn_kaigyo\obj\Release\ronbunn_kaigyo.Form1.resources
+C:\Users\nagasawa\Documents\pepper\python\ronbunn_kaigyo\ronbunn_kaigyo\obj\Release\ronbunn_kaigyo.Properties.Resources.resources
+C:\Users\nagasawa\Documents\pepper\python\ronbunn_kaigyo\ronbunn_kaigyo\obj\Release\ronbunn_kaigyo.csproj.GenerateResource.Cache
+C:\Users\nagasawa\Documents\pepper\python\ronbunn_kaigyo\ronbunn_kaigyo\obj\Release\ronbunn_kaigyo.exe
+C:\Users\nagasawa\Documents\pepper\python\ronbunn_kaigyo\ronbunn_kaigyo\obj\Release\ronbunn_kaigyo.pdb
